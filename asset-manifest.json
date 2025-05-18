@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.048f741b.css",
-    "main.js": "/react-portfolio/static/js/main.c908c7ba.js",
+    "main.css": "/react-portfolio/static/css/main.19d194ea.css",
+    "main.js": "/react-portfolio/static/js/main.0b847bb0.js",
     "static/js/453.9415623e.chunk.js": "/react-portfolio/static/js/453.9415623e.chunk.js",
+    "static/media/imageBMO.png": "/react-portfolio/static/media/imageBMO.3793c469eb53ec1216be.png",
+    "static/media/imageLexIQ.png": "/react-portfolio/static/media/imageLexIQ.a2bf1da299ff5a54eb2d.png",
     "static/media/imageTP2.png": "/react-portfolio/static/media/imageTP2.21322329db1b3fc00c8d.png",
     "static/media/bg-light.png": "/react-portfolio/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/react-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/imageBarberShop.png": "/react-portfolio/static/media/imageBarberShop.c2b53650650f8db1f952.png",
+    "static/media/CV-tech.pdf": "/react-portfolio/static/media/CV-tech.0b9347187142e8fb72c5.pdf",
+    "static/media/imageAI.png": "/react-portfolio/static/media/imageAI.c98300760c309d0b6217.png",
+    "static/media/imageGame.png": "/react-portfolio/static/media/imageGame.598eac663646fc6c1633.png",
     "index.html": "/react-portfolio/index.html",
-    "main.048f741b.css.map": "/react-portfolio/static/css/main.048f741b.css.map",
-    "main.c908c7ba.js.map": "/react-portfolio/static/js/main.c908c7ba.js.map",
+    "main.19d194ea.css.map": "/react-portfolio/static/css/main.19d194ea.css.map",
+    "main.0b847bb0.js.map": "/react-portfolio/static/js/main.0b847bb0.js.map",
     "453.9415623e.chunk.js.map": "/react-portfolio/static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.048f741b.css",
-    "static/js/main.c908c7ba.js"
+    "static/css/main.19d194ea.css",
+    "static/js/main.0b847bb0.js"
   ]
 }
