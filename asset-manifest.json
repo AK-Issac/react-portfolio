@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.8378f997.css",
-    "main.js": "/react-portfolio/static/js/main.98c19827.js",
+    "main.css": "/react-portfolio/static/css/main.6650e1d9.css",
+    "main.js": "/react-portfolio/static/js/main.ddb370d9.js",
     "static/js/453.9415623e.chunk.js": "/react-portfolio/static/js/453.9415623e.chunk.js",
     "static/media/imageBMO.png": "/react-portfolio/static/media/imageBMO.3793c469eb53ec1216be.png",
     "static/media/imageLexIQ.png": "/react-portfolio/static/media/imageLexIQ.a2bf1da299ff5a54eb2d.png",
-    "static/media/CV-tech.pdf": "/react-portfolio/static/media/CV-tech.08ed684fac61220c771e.pdf",
+    "static/media/CV-tech.pdf": "/react-portfolio/static/media/CV-tech.ab3f708960f558c1cf12.pdf",
+    "static/media/imageOrbital.png": "/react-portfolio/static/media/imageOrbital.c0a1877a62040d2e753a.png",
     "static/media/bg-light.png": "/react-portfolio/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/react-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/imageAI.png": "/react-portfolio/static/media/imageAI.c98300760c309d0b6217.png",
-    "static/media/imageGame.png": "/react-portfolio/static/media/imageGame.598eac663646fc6c1633.png",
+    "static/media/imagePDFAnalyzer.png": "/react-portfolio/static/media/imagePDFAnalyzer.122bccdd50507407d99c.png",
     "index.html": "/react-portfolio/index.html",
-    "main.8378f997.css.map": "/react-portfolio/static/css/main.8378f997.css.map",
-    "main.98c19827.js.map": "/react-portfolio/static/js/main.98c19827.js.map",
+    "main.6650e1d9.css.map": "/react-portfolio/static/css/main.6650e1d9.css.map",
+    "main.ddb370d9.js.map": "/react-portfolio/static/js/main.ddb370d9.js.map",
     "453.9415623e.chunk.js.map": "/react-portfolio/static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8378f997.css",
-    "static/js/main.98c19827.js"
+    "static/css/main.6650e1d9.css",
+    "static/js/main.ddb370d9.js"
   ]
 }
