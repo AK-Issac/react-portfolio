@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.4e95c219.css",
-    "main.js": "/react-portfolio/static/js/main.8d060012.js",
+    "main.css": "/react-portfolio/static/css/main.0a581be5.css",
+    "main.js": "/react-portfolio/static/js/main.c432d3f1.js",
     "static/js/453.9415623e.chunk.js": "/react-portfolio/static/js/453.9415623e.chunk.js",
+    "static/media/imageLexIQ.png": "/react-portfolio/static/media/imageLexIQ.991d353fd57b34675945.png",
     "static/media/imageBMO.png": "/react-portfolio/static/media/imageBMO.3793c469eb53ec1216be.png",
-    "static/media/imageLexIQ.png": "/react-portfolio/static/media/imageLexIQ.a2bf1da299ff5a54eb2d.png",
-    "static/media/CV-tech.pdf": "/react-portfolio/static/media/CV-tech.ab3f708960f558c1cf12.pdf",
+    "static/media/CV-Ayoub-Khial.pdf": "/react-portfolio/static/media/CV-Ayoub-Khial.db746b8e4d12fee22c15.pdf",
     "static/media/imageOrbital.png": "/react-portfolio/static/media/imageOrbital.c0a1877a62040d2e753a.png",
     "static/media/bg-light.png": "/react-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/imageAI.png": "/react-portfolio/static/media/imageAI.f0a7034ae16addb78567.png",
     "static/media/imagePDFAnalyzer.png": "/react-portfolio/static/media/imagePDFAnalyzer.122bccdd50507407d99c.png",
     "index.html": "/react-portfolio/index.html",
-    "main.4e95c219.css.map": "/react-portfolio/static/css/main.4e95c219.css.map",
-    "main.8d060012.js.map": "/react-portfolio/static/js/main.8d060012.js.map",
+    "main.0a581be5.css.map": "/react-portfolio/static/css/main.0a581be5.css.map",
+    "main.c432d3f1.js.map": "/react-portfolio/static/js/main.c432d3f1.js.map",
     "453.9415623e.chunk.js.map": "/react-portfolio/static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e95c219.css",
-    "static/js/main.8d060012.js"
+    "static/css/main.0a581be5.css",
+    "static/js/main.c432d3f1.js"
   ]
 }
